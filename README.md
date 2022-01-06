@@ -7,4 +7,5 @@ Esta implementação foi desenvolvida com base nas tecnologias já existentes na
 melhoria do User Interface (UI) Design e User eXperience (UX) Design do módulo de Gestão de Custos usado pela empresa e pelos clientes.
 
 
-**Nota Final** de **17** valores
+
+> **Nota Final** - **17** valores
